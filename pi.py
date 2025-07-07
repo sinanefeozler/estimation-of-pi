@@ -11,4 +11,4 @@ for i in range(n):
 
 estimated = 4*circle/n
 print(f"Estimated value of pi: {estimated}")
-print(f"Error percentage: {abs(estimated-pi)*100/pi}")
+#print(f"Error percentage: {abs(estimated-pi)*100/pi}")
